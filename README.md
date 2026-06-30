@@ -2,7 +2,6 @@
 * Date of birth: 03.14.2006
 * Langauges: Russian, English **(Not so good English!)**
 * Passions: Video games, Consoles (6th-7th gens), Music
-* 
 * Graduated from college **(06.26.2026)**
 * The military enlistment office is still waiting for me...
 * I used to work with [Godot](https://godotengine.org/) **(GDScript and C# *(Mostly C#)*)**
